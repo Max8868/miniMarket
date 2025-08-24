@@ -22,7 +22,7 @@ Este projeto consiste na criação de uma plataforma online para um minimercado,
 1.  Clone este repositório para sua máquina local.
 2.  Abra o arquivo `index.html` em seu navegador web preferido.
 
-Ou acesse: 
+Ou acesse: [Minimercado Online](https://max8868.github.io/miniMarket)
 
 ## Autor
 Taciano Maximo
